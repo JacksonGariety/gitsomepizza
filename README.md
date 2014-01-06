@@ -1,4 +1,4 @@
-![screenshot](https://raw.github.com/jacksongariety/gitsome/master/gitsome.png)
+![screenshot](https://raw.github.com/jacksongariety/gitsome/master/gitsomepizza.png)
 
 I love [Oh-My-ZSH](https://github.com/robbyrussell/oh-my-zsh) but not enough pizza I think. Part of the magic when switching from the default bash shell was playing with all the built themes. However, most of the themes were too noisy for me. I decided to ~~trim~~ pack in the fat and go ~~bare-bones~~ full-pizza with *some* pizza.
 
